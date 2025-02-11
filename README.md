@@ -5,7 +5,7 @@ This repository contains the necessary files to deploy and run our **fine-tuned 
 ## Model Files  
 The model weights and adapters are hosted on **Hugging Face Hub**. You can access them directly via the link below:  
 
-🔗 **[Model Repository on Hugging Face](https://huggingface.co/spaces/Sebukpor/finetuned_llama_3.2_11B>)**  
+🔗 **[Model Repository on Hugging Face](https://huggingface.co/spaces/Sebukpor/finetuned_llama_3.2_11B/tree/main>)**  
 
 ## Usage  
 To clone and use the model in your environment, run:  
